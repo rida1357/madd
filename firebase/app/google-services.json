@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "566872500557",
+    "firebase_url": "https://bookblog-3a4f7.firebaseio.com",
+    "project_id": "bookblog-3a4f7",
+    "storage_bucket": "bookblog-3a4f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566872500557:android:d90a8d22662da9cad22f04",
+        "android_client_info": {
+          "package_name": "com.example.bookblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566872500557-pierrck3adm22m29e7t35vh2tooogleu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookblog",
+            "certificate_hash": "31a4b1c6825aff68b55a562385d07c003c0aa608"
+          }
+        },
+        {
+          "client_id": "566872500557-iloc6cnk0l3686km7ev68int4rhft9s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJtvNkWXPg9Qy8appn8ocgeCPYSu1Jv44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566872500557-iloc6cnk0l3686km7ev68int4rhft9s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
